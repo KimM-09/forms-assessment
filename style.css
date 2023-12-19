@@ -1,0 +1,14 @@
+form {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+form input,
+form textarea {
+    width: 100%;
+    margin-bottom: 20px
+}
+
+form textarea {
+    height: 140px;
+}
